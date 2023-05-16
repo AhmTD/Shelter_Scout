@@ -1,3 +1,5 @@
+TOPLAM YAPIM SÜRESİ 1 HAFTA
+
 ![image](https://github.com/AhmTD/Shelter_Scout/assets/104300902/d7e82170-954b-4a2c-b02c-ce6b4166f321)
 ![image](https://github.com/AhmTD/Shelter_Scout/assets/104300902/8798ce40-7a7e-40c1-bb67-f70d5fc5345c)
 ![image](https://github.com/AhmTD/Shelter_Scout/assets/104300902/643fe507-b8d0-46ff-b148-e29b5af59e4f)
